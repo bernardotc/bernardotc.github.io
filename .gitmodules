@@ -1,0 +1,3 @@
+[submodule "ThingsToDo"]
+	path = ThingsToDo
+	url = https://github.com/bernardotc/ThingsToDo.git
